@@ -6,4 +6,4 @@ the ML Programming Language.
 
 This version was written in the C++ Programming Languages and the Library
 DeSiGNAR in order to be used to learn about lists in the course
-"Programación 3" in the University of The Andes, Venezuela.
+"Programación 3" at Universidad de Los Andes, Venezuela.
